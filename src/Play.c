@@ -4,3 +4,8 @@ void letsPlay()
 	{
 	printf("let's play\n");
 	}
+	
+void jump()
+{
+	printf("jump!\n");
+}
